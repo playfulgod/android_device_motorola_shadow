@@ -14,7 +14,7 @@ $(call inherit-product, vendor/motorola/shadow/shadow-vendor.mk)
 PRODUCT_NAME := cm_shadow
 PRODUCT_BRAND := verizon
 PRODUCT_DEVICE := shadow
-PRODUCT_MODEL := Droid X
+PRODUCT_MODEL := DROID X
 PRODUCT_MANUFACTURER := Motorola
 PRODUCT_SFX := vzw
 
